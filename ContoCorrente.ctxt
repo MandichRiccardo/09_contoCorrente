@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ContoCorrente
+comment1.params=IBAN\ intestatario\ saldo\ dataApertura\ attivo
+comment1.target=ContoCorrente(java.lang.String,\ Persona,\ double,\ java.lang.String,\ boolean)
+comment10.params=movimento
+comment10.target=java.lang.String\ aggiungiMovimento(MovimentoBancario)
+comment2.params=conto
+comment2.target=ContoCorrente(ContoCorrente)
+comment3.params=
+comment3.target=java.lang.String\ getIBAN()
+comment4.params=
+comment4.target=double\ getSaldo()
+comment5.params=
+comment5.target=java.lang.String\ getDataApertura()
+comment6.params=attivo
+comment6.target=void\ setAttivo(boolean)
+comment7.params=
+comment7.target=boolean\ getAttivo()
+comment8.params=
+comment8.target=java.lang.String\ getMovimenti()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
